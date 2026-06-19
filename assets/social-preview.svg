@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07101d"/>
+      <stop offset=".6" stop-color="#142b49"/>
+      <stop offset="1" stop-color="#0a1526"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fb7299"/>
+      <stop offset="1" stop-color="#55d8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <circle cx="1130" cy="90" r="250" fill="#fb7299" opacity=".1"/>
+  <circle cx="1080" cy="610" r="330" fill="#55d8ff" opacity=".08"/>
+  <text x="90" y="205" fill="#f7fbff" font-family="Inter,Arial,sans-serif" font-size="88" font-weight="800">Bilibili Profile</text>
+  <text x="94" y="280" fill="#aac1db" font-family="PingFang SC,Noto Sans CJK SC,Arial,sans-serif" font-size="38">把观看历史变成一份真正能解释你的兴趣画像</text>
+  <rect x="94" y="330" width="780" height="6" rx="3" fill="url(#line)"/>
+  <g font-family="Inter,Arial,sans-serif" font-size="27" fill="#e0ebf8">
+    <text x="94" y="410">✓ Local-first privacy</text>
+    <text x="430" y="410">✓ Read-only export</text>
+    <text x="750" y="410">✓ Auditable evidence</text>
+  </g>
+  <text x="94" y="545" fill="#829ab7" font-family="Inter,Arial,sans-serif" font-size="27">github.com/987161661/bilibil-profile</text>
+  <text x="1060" y="560" fill="#f7fbff" font-family="Inter,Arial,sans-serif" font-size="25">@987161661</text>
+</svg>

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/987161661/bilibil-profile/security
+    about: Report credential, privacy, or account-access vulnerabilities privately.
+  - name: Privacy and acceptable use
+    url: https://github.com/987161661/bilibil-profile/blob/main/PRIVACY.md
+    about: Read the privacy and data-handling requirements before posting.

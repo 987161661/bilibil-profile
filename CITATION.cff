@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If this project helped your research, product, or content, please cite it and credit the maintainer."
+title: "Bilibili Profile"
+type: software
+authors:
+  - name: "曾梓安"
+    alias: "987161661"
+repository-code: "https://github.com/987161661/bilibil-profile"
+url: "https://github.com/987161661/bilibil-profile"
+license: "MIT"
+date-released: "2026-06-20"
