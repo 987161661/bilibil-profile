@@ -1,0 +1,4 @@
+interface:
+  display_name: "B站兴趣画像分析"
+  short_description: "安全导出B站账户数据并生成证据分层、可审计的兴趣画像报告"
+  default_prompt: "Use $analyze-bilibili-profile to securely export my Bilibili data and produce an evidence-based interest profile."
