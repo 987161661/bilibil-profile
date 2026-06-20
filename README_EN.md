@@ -16,6 +16,10 @@
 
 Created and maintained by [Zeng Zi'an (@987161661)](https://github.com/987161661).
 
+[![CI](https://github.com/987161661/bilibil-profile/actions/workflows/ci.yml/badge.svg)](https://github.com/987161661/bilibil-profile/actions)
+[![Latest release](https://img.shields.io/github/v/release/987161661/bilibil-profile)](https://github.com/987161661/bilibil-profile/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/987161661/bilibil-profile/total)](https://github.com/987161661/bilibil-profile/releases)
+
 ## Why
 
 Bilibili knows what you watched, but it does not explain:

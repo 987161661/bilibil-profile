@@ -35,14 +35,14 @@ Suggested GitHub bio:
 
 ## Repository launch checklist
 
-- [ ] Add description: `Privacy-first Bilibili interest profiling from follows, favorites and watch history. 本地只读B站兴趣画像。`
-- [ ] Add topics: `bilibili`, `codex-skill`, `privacy`, `personal-analytics`, `recommendation-system`, `python`, `data-analysis`, `ai-agent`, `chinese`.
+- [x] Add description: `Privacy-first Bilibili interest profiling from follows, favorites and watch history. 本地只读B站兴趣画像。`
+- [x] Add topics: `bilibili`, `codex-skill`, `privacy`, `personal-analytics`, `recommendation-system`, `python`, `data-analysis`, `ai-agent`, `chinese`.
 - [ ] Upload `assets/social-preview.png` in Settings → General → Social preview.
-- [ ] Enable Issues and Discussions.
-- [ ] Enable private vulnerability reporting.
+- [x] Enable Issues and Discussions.
+- [x] Enable private vulnerability reporting.
 - [ ] Apply to GitHub Sponsors, then verify the Sponsor button.
 - [ ] Pin the repository on the maintainer's GitHub profile.
-- [ ] Publish a signed/tagged first release.
+- [x] Publish a tagged first release with a downloadable Skill asset.
 - [ ] Add a 45–90 second demo GIF or video to the README after recording.
 
 ## Launch assets

@@ -18,6 +18,8 @@
 <p align="center">
   <a href="https://github.com/987161661/bilibil-profile/actions"><img alt="CI" src="https://github.com/987161661/bilibil-profile/actions/workflows/ci.yml/badge.svg"></a>
   <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-22c55e.svg"></a>
+  <a href="https://github.com/987161661/bilibil-profile/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/987161661/bilibil-profile"></a>
+  <a href="https://github.com/987161661/bilibil-profile/releases"><img alt="Release downloads" src="https://img.shields.io/github/downloads/987161661/bilibil-profile/total"></a>
   <a href="https://github.com/987161661/bilibil-profile/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/987161661/bilibil-profile?style=social"></a>
 </p>
 
@@ -170,6 +172,8 @@ analyze-bilibili-profile/
 4. 点击仓库右侧的 **Sponsor** 按钮赞助维护。
 
 赞助将用于兼容接口变化、完善分类模型、制作一键安装体验和隐私审计。
+
+> GitHub Sponsors 需要作者账户完成GitHub的收款与税务审核后才能实际收款；仓库已配置好赞助入口。
 
 ## 许可证与署名
 
